@@ -218,7 +218,7 @@ input[type=submit]:focus {
     width: 52px;
     height: 52px;
     margin: 100px auto;
-    background-color: #96a00bef;
+    background-color: #eeff00;
     border-radius: 100%;
     -webkit-animation: sk-scaleout 1s infinite ease-in-out;
     animation: sk-scaleout 1s infinite ease-in-out
